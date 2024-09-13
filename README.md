@@ -1,6 +1,6 @@
 # Retina Blood Vessel Segmentation using U-Net
 
-This repository is part of the homework assignment for a deep learning course, focusing on medical image segmentation. Specifically, it implements the U-Net architecture in Python using TensorFlow or PyTorch to segment retinal blood vessels from fundus images.
+This repository is part of a personal project, focusing on medical image segmentation. Specifically, it implements the U-Net architecture in Python using TensorFlow or PyTorch to segment retinal blood vessels from fundus images.
 
 ## Repository Contents
 
@@ -14,7 +14,7 @@ This repository is part of the homework assignment for a deep learning course, f
 
 ## Project Description
 
-In this assignment, students are expected to deepen their understanding of Convolutional Neural Networks (CNNs) by constructing and training a U-Net architecture. The key learning outcomes include:
+In this project I got to deepen my understanding of Convolutional Neural Networks (CNNs) by constructing and training a U-Net architecture. The key learning outcomes include:
 
 - Gaining hands-on experience with the training and testing of medical image segmentation models.
 - Comprehending the U-Net architecture and how to piece together each layer using TensorFlow or PyTorch.
